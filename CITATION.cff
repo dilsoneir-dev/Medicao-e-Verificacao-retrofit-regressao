@@ -8,4 +8,4 @@ type: software
 date-released: 2026-10-06
 license: MIT
 abstract: "Medição e Verificação (PIMVP Opção C) de retrofit com regressão linear múltipla, economia evitada e ajuste não-rotineiro. EFE68304 – Eficiência Energética, MPSEE/IFSC."
-repository-code: "https://github.com/dilsoneir-dev/MV-retrofit-regressao-ipmvp"
+repository-code: "https://github.com/dilsoneir-dev/Medicao-e-Verificacao-retrofit-regressao"

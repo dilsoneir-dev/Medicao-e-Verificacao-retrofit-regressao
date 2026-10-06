@@ -30,17 +30,17 @@ Avaliação prática de Medição e Verificação (M&V) de um projeto de eficiê
 ## Estrutura do repositório
 
 ```
-MV-retrofit-regressao-ipmvp/
+Medicao-e-Verificacao-retrofit-regressao/
 ├── README.md
 ├── LICENSE
 ├── CITATION.cff
 ├── requirements.txt
 ├── memoria_de_calculo/
-│   └── ThermoPlex_MV_Memoria_de_Calculo.xlsx   # dados + cálculos (fonte principal)
+│   └── M&V_Memoria_de_Calculo.xlsx   # dados + cálculos (fonte principal)
 ├── notebook/
 │   └── 01_verificacao_mv.ipynb                  # validação cruzada independente em Python
 ├── relatorio/
-│   └── Relatorio_IEEE_ThermoPlex_MV.pdf         # relatório técnico (formato IEEE)
+│   └── M&V_Relatorio_padrão IEEE.pdf         # relatório técnico (formato IEEE)
 └── figuras/                                      # figuras do relatório (geradas pelo notebook)
 ```
 
@@ -85,7 +85,7 @@ Execute *Run All*. O notebook localiza o Excel em `../memoria_de_calculo/` e gra
 
 ## Relatório
 
-O relatório completo (PDF, formato IEEE) está em [`relatorio/`](relatorio/Relatorio_IEEE_ThermoPlex_MV.pdf).
+O relatório completo (PDF, formato IEEE) está em [`relatorio/`](relatorio/M%26V_Relatorio_padr%C3%A3o%20IEEE.pdf).
 
 ## Licença e citação
 
